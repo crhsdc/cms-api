@@ -50,9 +50,28 @@ Follow these steps to set up and run the project:
 
 1. Start the development server:
    ```bash
+   npm run dev
+   ```
+2. Access the API at `http://localhost:4000`.
+
+### Usage (Transpiled Code)
+
+1. Start the development server:
+   ```bash
+   npm run build
+   ```
+2. Start the development server:
+   ```bash
    npm start
    ```
-2. Access the API at `http://localhost:3000`.
+3. Access the API at `http://localhost:4000`.
+
+### Unit testing
+
+1. Start the development server:
+   ```bash
+   npm test
+   ```
 
 ## API Documentation
 
